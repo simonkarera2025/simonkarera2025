@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/simonkarera2025">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1050&text=karera.exe%20%7C%20Software%20Engineer" alt="karera.exe | Software Engineer" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1050&text=Karera Simon%20%7C%20Software%20Engineer" alt="Karera Simon | Software Engineer" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 ###  About Me
 
-&gt;  booting Karera Simon - not the final version  
+&gt;  booting karera.exe - not the final version  
 &gt;  software engineer  
 &gt;  debbuging my way thru' life - 1 commit at a time  
 &gt;  status : still in development
