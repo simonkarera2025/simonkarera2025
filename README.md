@@ -10,7 +10,7 @@
 
 ###  About Me
 
-&gt;  booting karera.exe - not the final version  
+&gt;  booting Karera Simon - not the final version  
 &gt;  software engineer  
 &gt;  debbuging my way thru' life - 1 commit at a time  
 &gt;  status : still in development
