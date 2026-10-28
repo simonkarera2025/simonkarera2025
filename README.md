@@ -8,21 +8,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=775&height=44&lines=My%20code%20has%20commitment%20issues-%20keeps%20on%20breaking.;404%3A%20figured-it-all-out%20not%20found" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+###  About Me
 
 &gt;  booting karera.exe - not the final version  
 &gt;  software engineer  
 &gt;  debbuging my way thru' life - 1 commit at a time  
 &gt;  status : still in development
 
-🔭 &nbsp;I'm currently working on **building my next future**  
-🌱 &nbsp;I'm currently learning **to turn syntax into second nature**  
-👯 &nbsp;I'm looking to collaborate on **projects that turn "what if?" into "it works!!!"**  
-💬 &nbsp;Ask me about **Frontend development and turning ideas into interface.**  
-😄 &nbsp;Pronouns: **{ HIM }**  
-⚡ &nbsp;Fun fact: **if (she _says _nothing) { overthink() ;  }**
+ &nbsp;I'm currently working on **building my next future**  
+ &nbsp;I'm currently learning **to turn syntax into second nature**  
+ &nbsp;I'm looking to collaborate on **projects that turn "what if?" into "it works!!!"**  
+ &nbsp;Ask me about **Frontend development and turning ideas into interface.**  
+ &nbsp;Pronouns: **{ HIM }**  
+ &nbsp;Fun fact: **if (she _says _nothing) { overthink() ;  }**
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -47,24 +47,24 @@
   <a href="mailto:userblocked2025@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=simonkarera2025&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=simonkarera2025&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
+###  Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=simonkarera2025&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
+###  Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/simonkarera2025">simonkarera2025</a></i></p>
+<p align="center"><i> From <a href="https://github.com/simonkarera2025">simonkarera2025</a></i></p>
